@@ -1,0 +1,23 @@
+enrollments:
+  students:
+    id:
+    name:
+    surname:
+    id_subject:
+    id_pc:
+
+  subjects:
+    -
+      id: 1
+      name: "markup languages"
+    -
+      id: 2
+      name: "database"
+
+  pcs:
+    -
+      id:
+      name:
+    -
+      id:
+      name:

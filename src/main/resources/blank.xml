@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<flights>
+    <flight><![CDATA[COSA]]></flight>
+    <items>
+        <item apodo="Pep&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ito"></item>
+        <item apodo="&#34;Pe&#160;pito&#34;"></item>
+        <!-- Un comentario <item apodo="\"Pepito\""></item> -->
+    </items>
+</flights>

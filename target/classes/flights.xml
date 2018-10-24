@@ -1,0 +1,12 @@
+<flights date="15/10/2018">
+    <flight orig="PMI" destination="BCN" hourout="10:00" flytime="0:30" availabeseats="20"></flight>
+    <flight>
+        <company>cosa</company>
+        <date>15/10/2018</date>
+        <orig code="PMI">Palma</orig>
+        <destination code="BCN">Barcelona</destination>
+        <hourout>10:15</hourout>
+        <flytime>0:30</flytime>
+        <availabeseats>14</availabeseats>
+    </flight>
+</flights>

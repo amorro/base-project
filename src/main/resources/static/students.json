@@ -1,0 +1,27 @@
+{
+  "enrollments": [
+    {
+      "students": [
+        {
+          "id": "",
+          "name": "",
+          "surname": "",
+          "id_subjects": [],
+          "id_pc": 1
+        }
+      ]
+    },
+    {
+      "subjects": [
+        {"id": 1,"name": ""},
+        {"id": 2,"name": ""}
+      ]
+    },
+    {
+      "pcs": [
+        {"id": 1, "name": ""},
+        {"id": 2, "name": ""}
+      ]
+    }
+  ]
+}

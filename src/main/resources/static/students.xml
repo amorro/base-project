@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<enrollmets year="2018">
+    <students>
+        <student id="" name="" surname="" id_subject="" id_pc=""/>
+        <subjets>
+            <subject id=""/>
+            <subject id=""/>
+        </subjets>
+    </students>
+    <subjets>
+        <subject id="" name=""/>
+        <subject id="" name=""/>
+    </subjets>
+    <pcs>
+        <pc id="" name=""/>
+        <pc id="" name=""/>
+    </pcs>
+</enrollmets>

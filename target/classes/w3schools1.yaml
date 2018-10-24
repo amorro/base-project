@@ -1,0 +1,11 @@
+breakfast_menu:
+  food:
+    name: Waffles
+    price: 5.95
+    calories: 650
+    postal_code: 07004
+  food:
+        name: Waffles
+        price: $5.95
+        calories: 650
+        postal_code: 07004
